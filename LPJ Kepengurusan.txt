@@ -1,0 +1,32 @@
+COVER
+DAFTAR ISI
+BAB 1 Pendahuluan
+  A.	Kata Pengantar
+BAB 2 Isi
+  A.	Visi dan Misi
+  B.	Struktur Kepengurusan
+      a.	Bagan Organisasi
+      b.	Nama-nama Pengurus
+  C.	Tugas Pokok dan Fungsi
+      a.	Presiden dan Wakil Presiden
+      b.	Kesekretariatan
+      c.	Menteri Keuangan
+      d.	Kementerian Pendidikan
+      e.	Kementerian Luar Kampus
+      f.	Kementerian Agama
+      g.	Kementerian Asikom
+      h.	Kementrian Minat Bakat 
+  D.	LPJ Kegiatan
+  E.	LPJ per-Divisi
+      a.	Presiden dan Wakil Presiden
+      b.	Kesekretariatan
+      c.	Menteri Keuangan
+      d.	Kementerian Pendidikan
+      e.	Kementerian Luar Kampus
+      f.	Kementerian Agama
+      g.	Kementerian Asikom
+      h.	Kementrian Minat Bakat
+BAB 3 Penutup
+  A.	Evaluasi
+  B.	Saran
+Lembar Pengesahan
